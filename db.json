@@ -1,15 +1,15 @@
 {
   "clientes": [
     {
-      "nombre": "moises mo",
-      "email": "moi@moi.com",
+      "nombre": "david",
+      "email": "david@correo.com",
       "telefono": "3242",
       "empresa": "Moises",
       "id": 1
     },
     {
-      "nombre": "MIGUEL m",
-      "email": "miguel@correo.com",
+      "nombre": "Juan",
+      "email": "juan@correo.com",
       "telefono": "343",
       "empresa": "otro",
       "id": 3
